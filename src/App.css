@@ -1,0 +1,29 @@
+.header {
+  background-color: rgb(16, 16, 79);
+  color: white;
+  text-align: center;
+  padding: 14px;
+}
+body{
+  background-color: #cdb4db;
+}
+.btn{
+  background-color: chartreuse;
+  color: black;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.btn1 {
+  background-color: chocolate;
+  color: white;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.todoApp{
+  text-align: center;
+}
+.counting{
+  text-align: center;
+}
+
+
